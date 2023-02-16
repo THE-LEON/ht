@@ -3,10 +3,12 @@
     padding: 0;
 }
 h1{
-    margin: 10px 20px;
+    font-size: 100px;
+    margin: 20px 50px;
 }
 h2{
-    margin: 10px 20px;
+    font-size: 70px;
+    margin: 20px 50px;
 }
 body{
     background-color: #23262e;
@@ -18,8 +20,11 @@ body{
 
 }
 input,select{
-    margin: 0 200px 0 20px;
+    display: block;
+    font-family: google;
+    font-size: 70px;
+    margin: 0 700px 0 50px;
     border: none;
-    border-radius: 10px;
+    border-radius: 30px;
     padding: 10px;
 }
