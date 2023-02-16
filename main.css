@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1{
+    margin: 10px 20px;
+}
+h2{
+    margin: 10px 20px;
+}
+body{
+    background-color: #23262e;
+    color: whitesmoke;
+    font-family: google;
+    display: flex;
+    align-items: right;
+    flex-direction: column;
+
+}
+input,select{
+    margin: 0 200px 0 20px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
