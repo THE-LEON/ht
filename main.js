@@ -184,5 +184,5 @@ ctx.fill();
 
 ctx.fillStyle = "white";
 ctx.font = "80px  google";
-ctx.fillText(`${Math.floor(100/6.2*(6.2-bath))}%`, 700, 2670);
+ctx.fillText(`${Math.floor(100/6.2*sum)}%`, 700, 2670);
 }
